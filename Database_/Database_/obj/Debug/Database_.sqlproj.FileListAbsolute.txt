@@ -1,0 +1,10 @@
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\bin\Debug\Database_.dacpac
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\bin\Debug\Database_.dll
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\bin\Debug\Database_.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\Database_.sqlproj.AssemblyReference.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\Model.xml
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\refactor.xml
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\postdeploy.sql
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\predeploy.sql
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\Database_.dll
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\Database_\Database_\obj\Debug\Database_.pdb

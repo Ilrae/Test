@@ -1,0 +1,5 @@
+Console Log
+File Log2
+TraceEx Information: 0 : My Info
+TraceEx Warning: 0 : My Warning
+TraceEx Error: 0 : My Error

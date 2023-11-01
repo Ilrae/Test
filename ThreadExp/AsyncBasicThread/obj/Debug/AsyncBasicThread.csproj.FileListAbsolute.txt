@@ -1,0 +1,10 @@
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.csproj.AssemblyReference.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.Form1.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.Properties.Resources.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.csproj.GenerateResource.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\bin\Debug\AsyncBasicThread.exe.config
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\bin\Debug\AsyncBasicThread.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\bin\Debug\AsyncBasicThread.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ThreadExp\AsyncBasicThread\obj\Debug\AsyncBasicThread.pdb

@@ -1,0 +1,10 @@
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\bin\Debug\MoistureLibrary.dll.config
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\bin\Debug\MoistureLibrary.dll
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\bin\Debug\MoistureLibrary.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\MoistureLibrary.csproj.AssemblyReference.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\MoistureLibrary.Properties.Resources.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\MoistureLibrary.csproj.GenerateResource.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\MoistureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\MoistureLibrary.dll
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\MoistureLibrary.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MoistureLibrary\obj\Debug\Moisture.Properties.Resources.resources

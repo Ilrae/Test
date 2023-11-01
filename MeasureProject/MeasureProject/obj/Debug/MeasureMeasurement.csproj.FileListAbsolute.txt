@@ -1,0 +1,16 @@
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MeasureProject.exe.config
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MeasureProject.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MeasureProject.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MoistureControls.dll
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MoistureLibrary.dll
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MoistureControls.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MoistureLibrary.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\bin\Debug\MoistureLibrary.dll.config
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureMeasurement.csproj.AssemblyReference.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureProject.Properties.Resources.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureMeasurement.csproj.GenerateResource.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureMeasurement.csproj.CoreCompileInputs.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureMeasurement.csproj.CopyComplete
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureProject.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\MeasureProject.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\obj\Debug\Moisture.Login.Properties.Resources.resources

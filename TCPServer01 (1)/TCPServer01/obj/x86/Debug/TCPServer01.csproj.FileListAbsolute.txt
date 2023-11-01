@@ -1,0 +1,27 @@
+D:\Works\HRP\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+D:\Works\HRP\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.CoreCompileInputs.cache
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+D:\Works\HRP\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\bin\Debug\TCPServer01.exe
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\bin\Debug\TCPServer01.pdb
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.csproj.CoreCompileInputs.cache
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.exe
+D:\Works\HRP\TCPServer01-master - 복사본\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.csproj.AssemblyReference.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.csproj.CoreCompileInputs.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\TCPServer01 (1)\TCPServer01\obj\x86\Debug\TCPServer01.pdb

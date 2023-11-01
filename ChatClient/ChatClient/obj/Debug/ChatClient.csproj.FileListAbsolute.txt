@@ -1,0 +1,10 @@
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

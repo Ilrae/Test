@@ -1,0 +1,8 @@
+
+[2023-10-04 오후 3:23:14]
+지정된 파일을 찾을 수 없습니다, [Source]=System
+, [Method]=Boolean StartWithShellExecuteEx(System.Diagnostics.ProcessStartInfo)/r/n, [StackTrace]=   위치: System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   위치: System.Diagnostics.Process.Start()
+   위치: Moisture.Login.Program.Main(String[] args) 파일 C:\Users\dnctm\OneDrive\바탕 화면\새 폴더\MeasureProject\MeasureProject\Program.cs:줄 40
+
+

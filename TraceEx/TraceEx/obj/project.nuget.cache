@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYUYFxoUH9WCQS98RHvCDtw/4hviIngZeH08swtFAIEUt/1Kjd6OfYYwVJXj4YxZdmOXH5Sr5XV9a4fPc4VWGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnctm\\OneDrive\\바탕 화면\\새 폴더\\TraceEx\\TraceEx\\TraceEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnctm\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\dnctm\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\dnctm\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\dnctm\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dnctm\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
