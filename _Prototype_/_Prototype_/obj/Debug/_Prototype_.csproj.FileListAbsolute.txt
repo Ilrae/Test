@@ -1,0 +1,10 @@
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\bin\Debug\_Prototype_.exe.config
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\bin\Debug\_Prototype_.exe
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\bin\Debug\_Prototype_.pdb
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.Form1.resources
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.Properties.Resources.resources
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.csproj.GenerateResource.cache
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.csproj.CoreCompileInputs.cache
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.exe
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.pdb
+C:\Users\dnctm\source\repos\_Prototype_\_Prototype_\obj\Debug\_Prototype_.csproj.AssemblyReference.cache

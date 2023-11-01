@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEF1aCwkRjYlyXEp1XcgWHJGusVumgXPc2XOOg4GTDJPCu5np6G5trNSySTaf5W18yhrdjuZXuHSf+OLr+qJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnctm\\source\\repos\\_Prototype_\\_Web_Config\\_Web_Config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnctm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\dnctm\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
